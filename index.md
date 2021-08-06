@@ -63,6 +63,8 @@ _I am a hacker from Portugal, currently living in the UK._
 
 - [Website](https://www.bypedro.eu)
 
+### Hobbies and Interests
+
 ```markdown
 // Check Work
   if (!to_do.list) {
