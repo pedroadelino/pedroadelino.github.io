@@ -33,32 +33,32 @@ _I am a hacker from Portugal, currently living in the UK._
 - EPPET (Professional School), Lisbon (Portugal) : Electronics, Telecommunications and Computer.
 
 ### Programming Languages
+
+- Kotlin.
 - C/C++.
 - VB (.NET).
+- Pascal.
 - Assembly.
 - Qbasic.
-- Pascal.
-- Kotlin.
 
 ### Scripting Languages
 
 - HTML.
 - CSS.
+- JavaScript.
 - Python.
 - Bash.
 - PHP.
-- JavaScript.
 
 ### Operating Systems
 
-- MS-DOS.
-- UNIX.
-- Novell.
-- Windows.
 - GNU/Linux.
+- Windows.
 - Android.
 - iOS.
-
+- UNIX.
+- MS-DOS.
+ 
 ### Contact
 
 - [Website](https://www.bypedro.eu)
