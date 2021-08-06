@@ -2,11 +2,11 @@
 
 ### Who am I?
 
-I am a hacker from Portugal, currently living in the UK.
+_I am a hacker from Portugal, currently living in the UK._
 
 ### Profile
 
-**A hard-working person who is able to adapt to any given situation and work under pressure. IT professional able to develop and manage high standard projects with a practical hands-on approach. I am always ready to work around the clock to fully satisfy any work demands.**
+**A hard-working person who is able to adapt to any given situation and work under pressure. IT professional able to develop and manage high standard projects with a practical hands-on approach. Always ready to work around the clock to fully satisfy any work demands.**
 
 ### Key Skills
 
@@ -64,16 +64,12 @@ I am a hacker from Portugal, currently living in the UK.
 - [Website](https://www.bypedro.eu)
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+// Check Work
+  if (!to_do.list) {
+    alert("All done! Have fun. :)");
+    is_working = false;
+    progress = 100
+    update_progress();
+    return false;
+  }
 ```
