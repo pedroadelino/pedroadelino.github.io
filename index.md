@@ -70,7 +70,7 @@ _I am a hacker from Portugal, currently living in the UK._
   if (!to_do.list) {
     alert("All done! Have fun. :)");
     is_working = false;
-    progress = 100
+    progress = 100;
     update_progress();
     return false;
   }
